@@ -1,6 +1,6 @@
-# Hate Speech Detection using Decision Trees
+# Hate Speech Detection 
 
-This repository contains code for detecting hate speech in tweets using a decision tree classifier. The model is trained on a dataset of labeled tweets and can predict whether a given tweet falls into one of three categories: "Hate Speech," "Offensive Language," or "No Hate and Offensive."
+This repository contains code for detecting hate speech in tweets . The model is trained on a dataset of labeled tweets and can predict whether a given tweet falls into one of three categories: "Hate Speech," "Offensive Language," or "No Hate and Offensive."
 
 ## Prerequisites
 
